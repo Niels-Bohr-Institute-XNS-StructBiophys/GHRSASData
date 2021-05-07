@@ -32,7 +32,7 @@ and MSP1D1 with the FASTA sequence:
 
 and POPC with the chemical composition:
 
-	C<sub>42</sub>H<sub>82</sub>NO<sub>8</sub>P
+	C42H82NO8P
 
 in a buffer containing:
 
