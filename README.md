@@ -1,6 +1,6 @@
 # GHRSASData
 
-This repository holds the data presented in the manuscript:
+This repository contains the small-angle scattering data presented in the manuscript:
 
 Order and disorder – an integrative structure of the full-length human growth hormone receptor<br>
 Kassem et al. (2021)<br>
