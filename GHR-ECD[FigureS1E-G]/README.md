@@ -1,6 +1,6 @@
 # GHR-ECD (Figure S1E-G)
 
-These data were recorded on the XX/XX/XX on the beam line XYZ at FACILITY.
+These data were recorded on the XX/XX/XX on the beam line P12 at DESY.
 
 The sample contains GHR-ECD with the FASTA sequence:
 

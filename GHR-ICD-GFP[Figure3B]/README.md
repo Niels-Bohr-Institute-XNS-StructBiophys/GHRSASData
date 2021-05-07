@@ -1,6 +1,6 @@
 # GHR-ICD-GFP (Figure 3B)
 
-These data were recorded on the XX/XX/XX on the beam line XYZ at FACILITY.
+These data were recorded on the XX/XX/XX on the beam line P12 at DESY.
 
 The sample contains GHR-ICD-GFP with the FASTA sequence:
 

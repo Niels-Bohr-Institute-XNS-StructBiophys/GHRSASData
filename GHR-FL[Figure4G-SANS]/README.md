@@ -1,6 +1,6 @@
 # GHR-FL (Figure 4G-SANS)
 
-These data were recorded on the 22/6/18 on the beam line D22 at ILL.
+These data were recorded on the 22/6/18 and 23/6/18 on the beam line D22 at ILL.
 
 The sample contains GHR-ICD-GFP with the FASTA sequence:
 
